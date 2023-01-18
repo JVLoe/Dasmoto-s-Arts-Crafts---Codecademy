@@ -35,7 +35,7 @@ p {
     text-align: left;
 }
 
-.brushTitleBackColor {
+.brushTitleBckColor {
     background-color: mediumspringgreen;
 }
 
@@ -47,7 +47,7 @@ p {
     background-color: skyblue;
 }
 
-span {
+.price {
     font-weight: bold;
     color: blue;
 }
