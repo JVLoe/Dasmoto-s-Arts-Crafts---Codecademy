@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, serif;
+}
+
+header {
+    background-image: url("assets/pattern.webp");
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+}
+
+h3 {
+    font-weight: bold;
+    color: black;
+    text-align: left;
+}
+
+p {
+    color: black;
+    text-align: left;
+}
+
+.brushTitleBackColor {
+    background-color: mediumspringgreen;
+}
+
+.frameTitleBckColor {
+    background-color: lightcoral;
+}
+
+.paintTitleBckColor {
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
